@@ -16,6 +16,6 @@
 ![[Task Management]]
 
 
-[[Warm wallet]]
+[[warm wallet]]
 
 [[cold wallet]]

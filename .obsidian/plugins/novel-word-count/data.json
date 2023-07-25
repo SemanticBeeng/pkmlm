@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "concepts/warm wallet.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690294414686,
+      "modifiedDate": 1690294414686,
+      "sizeInBytes": 35
+    },
     "concepts/cold wallet.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -27,23 +41,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293969681,
-      "modifiedDate": 1690293990381,
+      "createdDate": 1690294414678,
+      "modifiedDate": 1690294414678,
       "sizeInBytes": 21
-    },
-    "concepts/Warm wallet.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 16,
-      "nonWhitespaceCharacterCount": 13,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1690293800805,
-      "modifiedDate": 1690293800805,
-      "sizeInBytes": 16
     },
     "YAML & Dataview.md": {
       "isDirectory": false,
@@ -55,8 +55,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800805,
-      "modifiedDate": 1690293800805,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573631000,
       "sizeInBytes": 3682
     },
     "Writing.md": {
@@ -69,8 +69,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800805,
-      "modifiedDate": 1690293800805,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636383052000,
       "sizeInBytes": 192
     },
     "Using Templates in Obsidian.md": {
@@ -83,8 +83,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800805,
-      "modifiedDate": 1690293800805,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636383191000,
       "sizeInBytes": 2338
     },
     "Using Obsidian on iOS.md": {
@@ -97,8 +97,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800805,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636383161000,
       "sizeInBytes": 4971
     },
     "Turning Obsidian into the Perfect Writing App.md": {
@@ -111,8 +111,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573622000,
       "sizeInBytes": 8373
     },
     "Timeblocking in Obsidian.md": {
@@ -125,8 +125,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636382634000,
       "sizeInBytes": 4037
     },
     "The Power of the Local Graph.md": {
@@ -139,8 +139,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636573603000,
       "sizeInBytes": 9004
     },
     "Task Management.md": {
@@ -153,8 +153,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636383073000,
       "sizeInBytes": 223
     },
     "Syncing and Embedding Tasks with Todoist.md": {
@@ -167,8 +167,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573489000,
       "sizeInBytes": 5557
     },
     "Start Here.md": {
@@ -181,8 +181,8 @@
       "linkCount": 2,
       "embedCount": 6,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690294009669,
+      "createdDate": 1690294414678,
+      "modifiedDate": 1690295009299,
       "sizeInBytes": 149
     },
     "Splitting Notes in Obsidian.md": {
@@ -195,8 +195,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636573462000,
       "sizeInBytes": 5164
     },
     "Productivity.md": {
@@ -209,8 +209,8 @@
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636383010000,
       "sizeInBytes": 376
     },
     "Obsidian vs. Roam Research.md": {
@@ -223,8 +223,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636382563000,
       "sizeInBytes": 35721
     },
     "Obsidian Setup.md": {
@@ -237,8 +237,8 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583159,
+      "modifiedDate": 1636382977000,
       "sizeInBytes": 405
     },
     "Note-Taking vs. Note-Making.md": {
@@ -251,8 +251,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573425000,
       "sizeInBytes": 11180
     },
     "Nick Milo's Mindfulness Monday Interview.md": {
@@ -265,8 +265,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636383146000,
       "sizeInBytes": 9515
     },
     "Mike's Obsidian-Based Writing Workflow.md": {
@@ -279,8 +279,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636573330000,
       "sizeInBytes": 3895
     },
     "Meeting Notes in Obsidian.md": {
@@ -293,8 +293,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573287000,
       "sizeInBytes": 3250
     },
     "Keyboard Hotkeys and The Command Pallette.md": {
@@ -307,8 +307,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636383199000,
       "sizeInBytes": 4042
     },
     "Journaling.md": {
@@ -321,8 +321,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636383031000,
       "sizeInBytes": 153
     },
     "Journaling in Obsidian with QuickAdd.md": {
@@ -335,8 +335,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573273000,
       "sizeInBytes": 4985
     },
     "Intro to Personal Knowledge Management.md": {
@@ -349,8 +349,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1690146043500,
       "sizeInBytes": 19326
     },
     "General PKM.md": {
@@ -363,8 +363,8 @@
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573899000,
       "sizeInBytes": 480
     },
     "Daily Questions in Obsidian.md": {
@@ -377,8 +377,8 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636573199000,
       "sizeInBytes": 9618
     },
     "Connecting Notes & Bidirectional Linking.md": {
@@ -391,8 +391,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636383141000,
       "sizeInBytes": 5643
     },
     "Changing Your Obsidian Theme.md": {
@@ -405,8 +405,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636383166000,
       "sizeInBytes": 2677
     },
     "Capturing to iCloud Drive & Obsidian from Drafts.md": {
@@ -419,8 +419,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636572990000,
       "sizeInBytes": 4377
     },
     "Callback URLs in Obsidian.md": {
@@ -433,8 +433,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636572962000,
       "sizeInBytes": 4715
     },
     "Appending Drafts to Dropbox Daily Notes in Obsidian.md": {
@@ -447,8 +447,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583151,
+      "modifiedDate": 1636572857000,
       "sizeInBytes": 6001
     },
     "A Few of Our Favorite Obsidian Plugins.md": {
@@ -461,8 +461,8 @@
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690293800801,
-      "modifiedDate": 1690293800801,
+      "createdDate": 1690143583155,
+      "modifiedDate": 1636572781000,
       "sizeInBytes": 11003
     }
   }

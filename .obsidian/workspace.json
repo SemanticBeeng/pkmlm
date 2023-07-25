@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Warm wallet.md",
+                "file": "concepts/warm wallet.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Warm wallet.md",
+                "file": "concepts/warm wallet.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Warm wallet.md",
+                "file": "concepts/warm wallet.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here.md",
+                "file": "concepts/warm wallet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Warm wallet.md",
+                "file": "concepts/warm wallet.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Start Here.md",
+                "file": "concepts/warm wallet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Here.md",
+                "file": "concepts/warm wallet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Here.md",
+                "file": "concepts/warm wallet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,9 +241,9 @@
   },
   "active": "629148e3a5d6e08c",
   "lastOpenFiles": [
-    "concepts/Warm wallet.md",
-    "concepts/cold wallet.md",
     "Start Here.md",
+    "concepts/warm wallet.md",
+    "concepts/cold wallet.md",
     "index/Warm wallet.md",
     "A Few of Our Favorite Obsidian Plugins.md",
     "index",
