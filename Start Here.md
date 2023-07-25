@@ -17,3 +17,5 @@
 
 
 [[Warm wallet]]
+
+[[cold wallet]]
