@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "68567721795f7f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Warm wallet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5d46eded2a64c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Warm wallet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "629148e3a5d6e08c",
             "type": "leaf",
             "state": {
@@ -31,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ad4c8466923be13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Warm wallet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430,
-    "collapsed": true
+    "width": 430
   },
   "right": {
     "id": "f0cf5d29acb1ab23",
@@ -189,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,9 +241,9 @@
   },
   "active": "629148e3a5d6e08c",
   "lastOpenFiles": [
+    "concepts/Warm wallet.md",
     "concepts/cold wallet.md",
     "Start Here.md",
-    "concepts/Warm wallet.md",
     "index/Warm wallet.md",
     "A Few of Our Favorite Obsidian Plugins.md",
     "index",
