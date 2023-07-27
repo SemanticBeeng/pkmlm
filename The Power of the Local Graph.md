@@ -45,7 +45,7 @@ This is too much friction for me personally. I find I forget to add the links ba
 
 But this is solved with bidirectional links because the link back to the referring note gets added automatically.
 
-With a bidirectional link, the relationship between the linked notes is visible in the *Linked Mentions* section of **both** notes. This gives you the freedom to follow your thoughts in either direction, and is visible not only in the big graph view in Obsidian but also the *Local Graph*.
+With a bidirectional link, the <mark style="background: #FFF3A3A6;">relationship between the linked notes is visible in the *Linked Mentions* section of **both** notes</mark>. This gives you the freedom to follow your thoughts in either direction, and is visible not only in the big graph view in Obsidian but also the *Local Graph*.
 
 And this, my friends, is where the magic happens.
 
