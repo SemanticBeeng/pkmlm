@@ -32,17 +32,17 @@ Each one of those notes is called a *linked mention*, and will also show up in t
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting4.jpg)
 
-When you open a note, the *linked mentions* will show **all** of the places in your entire vault that link to the currently selected note. So for my *MOC - Habits*, there are two linked mentions here. You can use these linked mentions to navigate between different notes by clicking on the dots in the local graph. This opens the new note and updates the local graph and the linked mentions section instantly. So when I go from my *MOC - Habits* note to the one on James clear (which is actually empty right now), the right sidebar still shows me all the places that *James Clear* is linked to.
+When you open a note, the *linked mentions* will show **all** of the places in your entire vault that link to the currently selected note. So for my *MOC - Habits*, there are two linked mentions here. You can use these linked mentions to navigate between different notes by clicking on the dots in the local graph. This opens the new note and updates the local graph and the linked mentions section instantly. So when I go from my *MOC - Habits* note to the one on [[James Clear]] (which is actually empty right now), the right sidebar still shows me all the places that *[[James Clear]]* is linked to.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting5.jpg)
 
-In this example, my James Clear note is connected to the following notes:
+In this example, my [[James Clear]] note is connected to the following notes:
 
 - Atomic Habits
 - MOC - Habits
 - Bookworm 63
 
-These three notes are also listed in the *Linked Mentions* section, but there is also a section here called *Unlinked Mentions* that shows every other place in my Obsidian library where James clear is mentioned. 
+These three notes are also listed in the *Linked Mentions* section, but there is also a section here called *Unlinked Mentions* that shows every other place in my Obsidian library where [[James clear]] is mentioned. 
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting6.jpg)
 
@@ -50,7 +50,7 @@ This section is basically saying, "Hey, did you mean to link to this note when y
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting6.jpg)
 
-This adds double brackets around the term, creating another dot in the local graph and a link between that note where the term appears and the currently selected note. It also creates a two-way street for navigating the notes in our library. For example, I could go from my current note to my *Atomic Habits* note, to my *British Cycling Team* note. But these links are *bidirectional links*, meaning they go both ways. So I can go the other way - from *British Cycling Team* to *Atomic Habits* to *James Clear* to *MOC - Habits*. 
+This adds double brackets around the term, creating another dot in the local graph and a link between that note where the term appears and the currently selected note. It also creates a two-way street for navigating the notes in our library. For example, I could go from my current note to my *Atomic Habits* note, to my *British Cycling Team* note. But these links are *bidirectional links*, meaning they go both ways. So I can go the other way - from *British Cycling Team* to *Atomic Habits* to *[[James Clear]]* to *MOC - Habits*. 
 
 ## Transcluding Notes
 

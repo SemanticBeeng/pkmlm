@@ -9,7 +9,7 @@ One of the key things you need to understand about obsidian if you really want t
 
 This can come in handy when you're navigating the notes inside your Obsidian vault. But this is different that the default way most of us have become used to taking notes. If you're like me, most of the time when you're taking notes, you just jot down a bunch of things at once. But with Obsidian, you can actually break apart those notes after the fact and effortlessly link those notes together.
 
-For this example, let's use this note that I have here for the book Atomic Habits by James Clear. I'll start with this really big note of everything from the book but then I want to break apart individual pieces of this into their own specific notes. And there's a couple ways that we can do this. 
+For this example, let's use this note that I have here for the book Atomic Habits by [[James Clear]]. I'll start with this really big note of everything from the book but then I want to break apart individual pieces of this into their own specific notes. And there's a couple ways that we can do this. 
 
 ## Simple: Note Composer
 

@@ -40,7 +40,7 @@ In this note, there are several things:
 - A note at the top as to why this MOC exists
 - A section on the standard habit loop (and image) presented by Charles Duhigg in [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 - An opinion about why I don't like this definition
-- A section on James Clear's 4 Laws of Behavior Change from [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) and why I like this better
+- A section on [[James Clear]]'s 4 Laws of Behavior Change from [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) and why I like this better
 - A section on BJ Fogg's Behavior Model (and accompanying chart) from [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358003326)
 - A section with some links to additional resources/notes that speak to this topic
 - A section on Bible verses that speak to the topic of habits

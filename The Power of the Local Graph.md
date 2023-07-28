@@ -65,7 +65,7 @@ For example, from my Home note, I may want to develop my general note on habits.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/05/obsidianhabits.jpg)
 
-From here, I may want to review my notes on the book *[Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=nosim&tag=sweetsetup-20)* by James Clear. So clicking the *Atomic Habits* link takes me to that note, and again, the Local Graph is updated.
+From here, I may want to review my notes on the book *[Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=nosim&tag=sweetsetup-20)* by [[James Clear]]. So clicking the *Atomic Habits* link takes me to that note, and again, the Local Graph is updated.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/05/obsidianatomichabits.jpg)
 
