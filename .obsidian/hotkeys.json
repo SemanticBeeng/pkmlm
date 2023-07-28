@@ -1,1 +1,11 @@
-{}
+{
+  "reading-comments:add-inline-reading-comment": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}
