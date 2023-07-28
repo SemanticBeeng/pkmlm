@@ -15,7 +15,7 @@ This note has several components:
 
 -  A picture of the habit cycle made popular by Charles Duhigg
 -  An opinion note about the habit cycle where I identify what I don't like about this particular model
--  A link of the Four Laws of Behavior Change by James Clear (which I like better)
+-  A link of the Four Laws of Behavior Change by [[James Clear]] (which I like better)
 -  A link to BJ the Fogg Behavioral Model
 -  Additional resources on habits
 -  Bible verses that talk about habits
