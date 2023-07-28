@@ -64,6 +64,6 @@ This is great for review purposes, but the big benefit is that I can now build m
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting8.jpg)
 
-From here, I can even open all these other notes in separate windows or tabs and create a workspace inside of Obsidian where I can study this out. 
+From here, I can even open all these other notes  in separate windows or tabs and create a workspace </span>inside of Obsidian where I can study this out. 
 
 These are just a couple examples of how you can use connections inside of Obsidian. But one last tip: don't go nuts creating backlinks every place that you can. Be intentional about the connections that you make. Ask yourself, "when do I want to stumble upon this note again?" You want more signal and less noise. And if you're intentional about the connections that you create between your notes, you'll be able to leverage a ton of value from those connections in the future.
