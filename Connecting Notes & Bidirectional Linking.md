@@ -46,7 +46,7 @@ These three notes are also listed in the *Linked Mentions* section, but there is
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting6.jpg)
 
-This section is basically saying, "Hey, did you mean to link to this note when you used that term?" And you can turn any of these unlinked mentioned into a linked mention by hovering over the note and clicking the *Link* button that appears.
+This section is basically saying, "Hey, did you mean to link to this note when you used that term?" And <mark style="background: #FFF3A3A6;">you can turn any of these unlinked mentioned into a linked mention by hovering over the note and clicking the *Link* button that appears.</mark>
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting6.jpg)
 
